@@ -1,4 +1,5 @@
-# Viterbi_Method
+# Speech Processing 
+# Viterbi_Method 
 
 A speech recognition system using the Viterbi method for HMM-based decoding.  
 The system recognizes voice commands for a smart home, including lights, music, and thermostat control.
